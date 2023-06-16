@@ -45,5 +45,5 @@ def prediction():
 
 # 8. allows us to run flask using $ python app.py
 if __name__ == '__main__':
-    app.run(debug=False,host= "0.0.0.0")
+    app.run(debug=False)
 
